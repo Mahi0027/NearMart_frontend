@@ -1,0 +1,27 @@
+#carouselExampleIndicators {
+  border: solid 1px transparent ;
+}
+.carousel-indicators button {
+  position: relative !important;
+  height: 10px !important;
+  width: 10px !important;
+  background-color: #1B1B1B !important;
+  border-radius: 50% !important;
+}
+
+.caption {
+  position: relative !important;
+  color: #1B1B1B !important;
+  display:inline-block !important;
+  text-align:center !important;
+  margin-top: 5% !important;
+}
+
+.logoDiv {
+  margin-top: 10% !important;
+  margin-bottom: 15% !important;
+}
+.logo {
+  width: 120px;
+  height: 120px;
+}

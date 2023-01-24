@@ -1,0 +1,11 @@
+.header {
+  margin-top: 5%;
+}
+hr {
+  margin-bottom: 2rem !important;
+  border-top: 1px solid #1B1B1B !important;
+}
+
+.textColor {
+  color: #1B1B1B !important;
+}
